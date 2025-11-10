@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Priya — an engineering student focused on mastering Data Structures & Algorithms and building skills to become a Data Analyst.  
+I'm Priya — an engineering student focused on mastering Data Structures & Algorithms and building skills to become a Web Developer.  
 
-- 🔭 I’m currently working on building skills in Data Analyst -  solving real-world problems, visualizing data effectively, and extracting meaningful insights to drive decisions.
+- 🔭 I’m currently working on building skills in Web Development.
 - 🌱 I’m currently learning -
-   SQL • Python • Excel • Data Cleaning • Data Visualization (Matplotlib, Seaborn)  
+   HTML, Tailwind CSS, JS, React.js, Node.js, Express.js and Mongo DB
    C++(DSA) • Problem Solving • Git & GitHub 
 - 👯 I’m looking to collaborate on - 
-    Data analysis projects  
+    Web Development
     DSA problem-solving and mock interviews    
 
 <!--
