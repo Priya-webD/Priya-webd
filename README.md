@@ -5,6 +5,7 @@ I'm Priya — an engineering student focused on mastering Data Structures & Algo
 - 🔭 I’m currently working on building skills in Web Development.
 - 🌱 I’m currently learning -
    HTML, Tailwind CSS, JS, React.js, Node.js, Express.js and Mongo DB
+  
    C++(DSA) • Problem Solving • Git & GitHub 
 - 👯 I’m looking to collaborate on - 
     Web Development
